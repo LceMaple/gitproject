@@ -15,5 +15,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "test_mater" );
         System.out.println( "test Hot fix" );
+        System.out.println( "test push" );
     }
 }
